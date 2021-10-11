@@ -1,0 +1,67 @@
+31.05.2005 11:43:47: Division by zero
+31.05.2005 11:43:54: Raise button pressed
+31.05.2005 11:45:03:'8yutyutyu' is not a valid integer value
+31.05.2005 12:50:37:'Edit1' is not a valid integer value
+31.05.2005 12:55:56: Raise button pressed
+31.05.2005 14:06:22: 'текст' is not a valid integer value
+31.05.2005 14:06:31: Raise button pressed
+31.05.2005 14:06:34: Division by zero
+31.05.2005 14:07:04: 'текст' is not a valid integer value
+31.05.2005 18:26:26: Division by zero
+31.05.2005 18:26:30: Raise button pressed
+31.05.2005 18:26:33: 'текст' is not a valid integer value
+31.05.2005 18:26:39: 'iuoouououi' is not a valid integer value
+31.05.2005 18:26:43: 'iuoouououi' is not a valid integer value
+31.05.2005 18:26:44: Raise button pressed
+31.05.2005 18:26:44: Division by zero
+31.05.2005 18:41:47: Unable to insert a line
+31.05.2005 18:42:31: 'Вызов ошибки' is not a valid integer value
+31.05.2005 18:42:38: Division by zero
+31.05.2005 18:42:40: Raise button pressed
+31.05.2005 18:42:46: 'Вызов ошибки' is not a valid integer value
+31.05.2005 18:43:22: Unable to insert a line
+31.05.2005 18:46:54: Raise button pressed
+31.05.2005 18:47:01: 'Вызов ошибки' is not a valid integer value
+31.05.2005 18:47:23: Division by zero
+31.05.2005 18:47:28: Raise button pressed
+31.05.2005 18:47:30: 'Вызов ошибки' is not a valid integer value
+31.05.2005 18:47:35: Unable to insert a line
+31.05.2005 18:49:15: Division by zero
+31.05.2005 18:50:28: Division by zero
+31.05.2005 18:50:30: Raise button pressed
+31.05.2005 18:50:31: 'Вызов ошибки' is not a valid integer value
+31.05.2005 18:51:14: Unable to insert a line
+31.05.2005 18:51:41: Unable to insert a line
+31.05.2005 18:56:42: Unable to insert a line
+31.05.2005 18:56:50: Unable to insert a line
+31.05.2005 19:04:28: Access violation at address 00000001. Read of address 00000001
+31.05.2005 19:04:36: Division by zero
+31.05.2005 19:04:38: Raise button pressed
+31.05.2005 19:04:40: 'Вызов ошибки' is not a valid integer value
+31.05.2005 19:04:45: Unable to insert a line
+31.05.2005 19:04:51: Access violation at address 00000001. Read of address 00000001
+31.05.2005 19:09:48: List index out of bounds (0)
+31.05.2005 19:15:54: Division by zero
+31.05.2005 19:15:58: Raise button pressed
+31.05.2005 19:16:04: 'Вызов ошибки' is not a valid integer value
+31.05.2005 19:16:08: Unable to insert a line
+31.05.2005 19:16:11: Access violation at address 00000001. Read of address 00000001
+31.05.2005 19:16:14: List index out of bounds (3)
+31.05.2005 19:16:36: List index out of bounds (3)
+31.05.2005 19:17:27: List index out of bounds (3)
+31.05.2005 19:24:53: List index out of bounds (3)
+31.05.2005 19:25:13: List index out of bounds (3)
+31.05.2005 19:25:24: Division by zero
+31.05.2005 19:25:27: Raise button pressed
+31.05.2005 19:25:27: 'Вызов ошибки' is not a valid integer value
+31.05.2005 19:25:27: Unable to insert a line
+31.05.2005 19:25:28: Access violation at address 00000001. Read of address 00000001
+31.05.2005 19:25:28: List index out of bounds (3)
+01.02.2006 18:58:40: Division by zero
+01.02.2006 18:58:49: Division by zero
+01.02.2006 18:58:57: Division by zero
+01.02.2006 18:58:58: Raise button pressed
+01.02.2006 18:59:02: 'Вызов ошибки' is not a valid integer value
+01.02.2006 18:59:04: Unable to insert a line
+01.02.2006 18:59:08: Access violation at address 00000001. Read of address 00000001
+01.02.2006 18:59:13: List index out of bounds (3)
